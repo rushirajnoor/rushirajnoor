@@ -1,3 +1,5 @@
+- <img width="600" height="338" alt="Chill Mario" src="https://github.com/user-attachments/assets/05326580-4ee9-489d-96fd-ecfbaed602ed" />
+
 ## Hi there 👋
 
 
@@ -13,6 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--
-- <img width="600" height="338" alt="Chill Mario" src="https://github.com/user-attachments/assets/05326580-4ee9-489d-96fd-ecfbaed602ed" />
-
