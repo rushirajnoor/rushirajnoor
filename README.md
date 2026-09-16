@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=3CF018&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Rushi+Rajnoor+%F0%9F%91%8B;AI+%26+ML+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Multi-Agent+Systems+Builder+%F0%9F%A4%96;ML+%7C+DL+%7C+LLMs+%7C+Gen+AI++%F0%9F%A7%A0)](https://git.io/typing-svg)
 - <img width="600" height="338" alt="Chill Mario" src="https://github.com/user-attachments/assets/05326580-4ee9-489d-96fd-ecfbaed602ed" />
 
 ## Hi there 👋
