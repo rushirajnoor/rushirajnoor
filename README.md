@@ -1,183 +1,160 @@
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=120&section=header&animation=fadeIn)
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there, I'm Rushi Rajnoor
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Rushi+Rajnoor+%F0%9F%91%8B;AI+%26+ML+Developer+%F0%9F%A4%96;Multi-Agent+Systems+Builder+%F0%9F%A4%96;ML+%7C+DL+%7C+LLMs+%7C+Gen+AI+%F0%9F%A7%A0" alt="Typing SVG"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&pause=1000\&color=3CF018\&center=true\&vCenter=true\&width=750\&lines=Hey+there%2C+I'm+Rushi+Rajnoor+%F0%9F%91%8B;AI+%26+ML+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Multi-Agent+Systems+Builder+%F0%9F%A4%96;ML+%7C+DL+%7C+LLMs+%7C+Gen+AI+%F0%9F%A7%A0)](https://git.io/typing-svg)
+<p align="center">
+  <img width="600" alt="Chill Mario" src="https://github.com/user-attachments/assets/05326580-4ee9-489d-96fd-ecfbaed602ed" />
+</p>
 
-<img width="600" height="338" alt="Chill Mario" src="https://github.com/user-attachments/assets/05326580-4ee9-489d-96fd-ecfbaed602ed" />
-
-</div>
-
----
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=rushirajnoor\&label=PROFILE+VIEWS\&color=0e75b6\&style=for-the-badge)](https://github.com/rushirajnoor)
-
-</div>
-
-## > whoami
-
-```text
-AI & ML Developer focused on building practical intelligent systems.
-
-• Deep Learning
-• Natural Language Processing
-• Transformers & LLMs
-• Generative AI
-• Multi-Agent Systems
-• End-to-End ML Applications
-```
-
-* 🔭 Building AI/ML systems with a focus on **NLP, LLMs and multi-agent architectures**
-* 🧠 Working with **Deep Learning, Transformers and Generative AI**
-* 🛠️ Building practical projects from **data → models → applications**
-* 🎓 B.Tech AI/ML student
-* 🏆 **3rd Prize — INNOHACK 2025**
-* ⚡ Interested in turning complex problems into working AI systems
+<p align="center">
+  <a href="https://github.com/rushirajnoor">
+    <img src="https://komarev.com/ghpvc/?username=rushirajnoor&color=39ff14&style=flat-square&label=PROFILE+VIEWS"/>
+  </a>
+  <a href="https://github.com/rushirajnoor?tab=followers">
+    <img src="https://img.shields.io/github/followers/rushirajnoor?style=flat-square&color=39ff14&labelColor=0d0d0d&label=FOLLOWERS"/>
+  </a>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-39ff14?style=flat-square&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/BASED-IN%20INDIA-39ff14?style=flat-square&labelColor=0d0d0d"/>
+</p>
 
 ---
 
-## > tech_stack --list
+## `> whoami`
+
+- 🔭 Building `AI/ML & Multi-Agent Systems`
+- 🧠 Focused on `Deep Learning, NLP, Transformers & LLMs`
+- ⚙️ Interested in `End-to-End AI Systems & Generative AI`
+- 🛠️ Building practical systems across `ML, Backend & AI Engineering`
+- 🎓 B.Tech AI/ML — 2023–2027
+- 🏆 `3rd Prize — INNOHACK 2025` | Robotics & AI Hackathon
+- ⚡ Turning ideas into working intelligent systems
+
+---
+
+## `> tech_stack --list`
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,sql" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### AI Focus
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-412991?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-5C2D91?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### Backend / Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,flask" />
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Databases
+### Databases / Infrastructure
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
-</p>
-
-### DevOps / Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
-</p>
-
-### AI Stack
-
-<p>
-<img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=googlebard&logoColor=white" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## > featured_projects
+## `> featured_projects`
 
 ### 🤖 AI Resume Analyzer
-
-AI-powered resume analysis and ATS-oriented platform featuring resume parsing, NLP-based analysis, similarity scoring, visualization and resume generation.
-
-**Stack:** Python • Streamlit • Scikit-learn • NLP • TF-IDF • Cosine Similarity • Random Forest
-
----
+AI-powered resume analysis platform combining ATS-oriented evaluation, NLP-based analysis, similarity scoring, visualization, and resume generation.
 
 ### 🧠 AI Log Analyzer
-
-AI-driven log analysis system designed to analyze application logs, perform root-cause analysis and support automated remediation workflows.
-
-**Stack:** Python • Pandas • FastAPI • PostgreSQL • Redis • Docker
-
----
+AI-driven log analysis and root-cause analysis system with a microservice-oriented architecture, designed around automated diagnosis and remediation workflows.
 
 ### 🏥 Transformer-Based Clinical Information Extraction
-
-Final-year AI/NLP project focused on extracting structured clinical information from medical speech transcripts, including entities, attributes, relations, negation and temporality.
-
-**Stack:** Python • Transformers • NLP • Deep Learning • LLMs
+A multilingual clinical NLP project focused on extracting entities, attributes, relations, negation, temporality, and other structured information from medical speech transcripts.
 
 ---
 
-## > achievements
+## `> achievements`
 
-🏆 **3rd Prize — INNOHACK 2025**
+🏆 **3rd Prize — INNOHACK 2025**  
 Robotics & AI Hackathon
 
-Built an AI-powered resume platform combining ATS analysis, NLP-based resume evaluation and resume generation.
+Built an AI-powered resume platform combining ATS analysis, NLP-based resume evaluation, analysis, visualization, and resume generation.
 
 ---
 
-## > connect_with_me
+## 📊 Statistics
+
+<div align="center">
+  <a href="https://github.com/rushirajnoor">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rushirajnoor&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rushirajnoor&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rushirajnoor&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rushirajnoor&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rushirajnoor&theme=2077" height="180em" />
+  </a>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rushirajnoor/rushirajnoor/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## ⚡ Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushirajnoor&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
+## `> contact --open`
 
 <p align="center">
 
-<a href="https://github.com/rushirajnoor">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://github.com/rushirajnoor">
+    <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=39ff14"/>
+  </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=39ff14"/>
+  </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=39ff14"/>
+  </a>
 
 </p>
 
 ---
 
-## > github_stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushirajnoor&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushirajnoor&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rushirajnoor&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## > contribution_activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rushirajnoor&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## > contribution_snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rushirajnoor/rushirajnoor/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-<div align="center">
-
-### 「 Build. Break. Learn. Repeat. 」
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=100&section=footer&animation=fadeIn)
