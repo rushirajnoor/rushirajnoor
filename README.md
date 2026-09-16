@@ -123,7 +123,11 @@ Built an AI-powered resume platform combining ATS analysis, NLP-based resume eva
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rushirajnoor/rushirajnoor/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushirajnoor/rushirajnoor/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushirajnoor/rushirajnoor/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rushirajnoor/rushirajnoor/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -132,7 +136,7 @@ Built an AI-powered resume platform combining ATS analysis, NLP-based resume eva
 ## ⚡ Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushirajnoor&theme=react-dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rushirajnoor&theme=github_dark" width="100%" />
 </div>
 
 ---
